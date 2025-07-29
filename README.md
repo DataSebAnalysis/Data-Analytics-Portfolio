@@ -12,21 +12,25 @@ Over the last two years, I’ve completed a Career in Data Analytics and a Data 
 
 This is the moment to showcase all the experience I’ve gained, including collaborating on dashboards at my current job for monthly sales analysis.
 
+**Language Notice:**
+
+Some of the projects and portfolio materials are presented in Spanish (ES), while others are in English (EN).
 
 **Organization**
 
 This portfolio is divided into the following folders:
 
-Excel: Projects created entirely in Excel.
+**Excel:** 
+Project - Euro Leagues Transfers: This project analyzes player transfer sales in the top 3 European football leagues (Premier League, La Liga, Serie A) during 2015. Using Excel for the entire project, data cleaning, organization and the dashboard. This analysis explores trends in transfer fees, player positions, and club activities while the dashboard presents clear visualizations to highlight key insights and comparisons across leagues.
 
-Code: Projects that contain code, whether in Python or SQL format.
+**Data Visualization** - Projects divided into 3 folders: 
+Looker
+Power BI
+Tableau.
 
-Data Visualization: Projects divided into 3 sections: Looker, Power BI, or Tableau.
-(Here is the link for Tableau: https://public.tableau.com/app/profile/sebastian.loza3120).
+**Integrated Projects:**
 
-Integrated Projects: Completed and integrated projects that include both code and data visualization.
-
-Certifications: All data analysis certifications obtained to date.
+ES: Project - Final Master’s Project: Health Analytics para el estudios de la salud pública
 
 
 **Portfolio Structure**
@@ -41,9 +45,10 @@ Each project includes a clear description, the dataset used, and what I learned 
 
 **Tools & Skills**
 
-- Languages: Python, SQL
+- Languages: Python, SQL, Excel
 - Libraries: Pandas, Matplotlib, Seaborn
 - Visualization: Power BI, Tableau, Looker, Jupyter Notebook
+- Tools: Excel, Visual Studio Code
 
 
 **Certifications**
