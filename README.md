@@ -1,6 +1,6 @@
 **Introduction**
 
-Hi data world, I'm Sebastian!
+Hello data world, I'm Sebastian!
 
 I'm a junior data analyst with a background in applied science and a genuine passion for analytical thinking and solving problems with data.
 
@@ -42,7 +42,6 @@ Here you'll find data analysis projects focused on:
 
 Each project includes a clear description, the dataset used, and what I learned or would improve in the future.
 
-
 **Tools & Skills**
 
 - Languages: Python, SQL, Excel
@@ -53,17 +52,14 @@ Each project includes a clear description, the dataset used, and what I learned 
 
 **Certifications**
 
-- Data Analytics Bootcamp – ISDI Coders (2025)
+- Data Analytics Master's Degree – Nuclio Digital School (2025)
+- Career in Data Analytics - Coderhouse (2025)
 - Excel for Data Analysis – Coursera
 - SQL Fundamentals – DataCamp
 - Introduction to Power BI – edX
 
 
 **Working on**
-
-Improving my existing projects with better visualizations and explanations
-
-Practicing SQL queries and building Power BI dashboards
 
 Studying statistics and business analytics to better interpret data in real-world contexts, including the Business Analytics Specialization from Wharton Online (University of Pennsylvania)
 
