@@ -1,12 +1,3 @@
-This repository serves as a central hub for my data analytics projects.
-
-Projects
-
-Retail Customer Churn Analysis
-SQL and Python-based revenue-weighted churn segmentation.
-👉 https://github.com/DataSebAnalysis/retail-churn-analysis
-
-
 **About Me**
 
 I’m a Data Analyst with a background in Sports Science and a strong interest in business and healthcare analytics.
@@ -17,7 +8,7 @@ My work combines SQL, Python, and Business Intelligence tools to analyze custome
 
 **Featured Projects**
 
-🔹 Retail Churn Analysis (SQL + Python + Power BI)
+*Retail Churn Analysis (SQL + Python + Power BI)*
 
 End to end churn analysis project including:
 
