@@ -8,7 +8,7 @@ My work combines SQL, Python, and Business Intelligence tools to analyze custome
 
 **Featured Projects**
 
-*Retail Churn Analysis (SQL + Python + Power BI)*
+1) Retail Churn Analysis (SQL + Python + Power BI)*
 
 End to end churn analysis project including:
 
@@ -22,7 +22,7 @@ Business impact simulation
 
 Focus: Translating customer behavior into actionable retention strategies.
 
-🔹 Medicare Healthcare Analytics (SQL + Tableau)
+2) Medicare Healthcare Analytics (SQL + Tableau)
 
 Analysis of U.S. hospital charge variability and payment efficiency using Medicare data.
 
@@ -36,7 +36,7 @@ Executive-level dashboard in Tableau
 
 Focus: healthcare cost transparency and financial efficiency insights.
 
-🔹 S&P 500 Time Series Analysis (Python)
+3) S&P 500 Time Series Analysis (Python)
 
 Exploratory time series analysis of S&P 500 companies (2013–2018).
 
@@ -50,19 +50,6 @@ Sector-level performance analysis
 
 Focus: financial data exploration and trend detection.
 
-🔹 Euro Leagues Transfer Market (Excel Dashboard)
-
-Complete Excel-based project analyzing football transfer activity across:
-
-Premier League
-
-La Liga
-
-Serie A
-
-Includes data cleaning, structured analysis, and an interactive dashboard.
-
-Focus: visual storytelling and structured business reporting in Excel.
 
 **Technical Stack**
 
@@ -72,14 +59,6 @@ Databases: MySQL
 BI Tools: Power BI, Tableau, Looker
 Environment: Jupyter Notebook, VS Code
 
-**Certifications**
-
-- Data Analytics Master's Degree – Nuclio Digital School (2025)
-- Career in Data Analytics - Coderhouse (2025)
-- Excel for Data Analysis – Coursera
-- SQL Fundamentals – DataCamp
-- Introduction to Power BI – edX
-- 
 **Current Focus**
 
 Continuously strengthening my statistical foundations and business analytics skills to deepen the strategic impact of data analysis.
