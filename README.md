@@ -1,8 +1,10 @@
 **About Me**
 
-I’m a Data Analyst with a background in Sports Science and a strong interest in business and healthcare analytics.
+Hello! I’m Sebastian, a Business Analyst with 3 years experience in business and sales and a Master's Degree in Data Analytics.
 
-My scientific training taught me how to measure performance, interpret data critically, and base decisions on structured analysis. Today, I apply that same analytical mindset to business and healthcare datasets, transforming raw information into clear insights.
+I believe I can bring a unique perspective to data analysis. My background allows me to approach data with a focus on human behavior and performance, which is particularly valuable when analyzing complex datasets that require context and actionable insights.
+
+Over the past three years I have been working in Sales, I’ve applied my analytical skills to design dashboards and create data visualizations that help to easily visualize and improve business outcomes.
 
 My work combines SQL, Python, and Business Intelligence tools to analyze customer behavior, healthcare cost structures, financial time series and sales performance.
 
